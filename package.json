@@ -60,7 +60,7 @@
     "react-redux-firebase": "^3.8.1",
     "react-resize-detector": "^5.0.7",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.1",
     "react-switch": "^5.0.1",
     "react-webcam": "^5.2.0",
     "read": "^1.0.7",
